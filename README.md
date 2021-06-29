@@ -1,0 +1,1 @@
+# stange_map
